@@ -108,3 +108,7 @@ h2 {
 .img {
     align-items: center;
 }
+
+#miFooter{
+    flex-direction: column;
+}
